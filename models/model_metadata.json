@@ -1,0 +1,34 @@
+{
+    "best_k_values": {
+        "eksim": {
+            "k": 27,
+            "score": 0.8674828178694158
+        },
+        "kudis": {
+            "k": 12,
+            "score": 0.7224871134020618
+        },
+        "kurap": {
+            "k": 2,
+            "score": 0.7267826460481099
+        }
+    },
+    "feature_order": [
+        "R",
+        "G",
+        "B",
+        "H",
+        "S",
+        "V",
+        "Brightness",
+        "RG_Ratio",
+        "RB_Ratio",
+        "GB_Ratio",
+        "Luminance"
+    ],
+    "classes": [
+        "eksim",
+        "kudis",
+        "kurap"
+    ]
+}
